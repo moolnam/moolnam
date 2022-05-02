@@ -1,6 +1,6 @@
 ### Hi there 👋
 안녕하세요
-저는 대한민구 수영선수 20년하고 은퇴 했습니다. 
+저는 대한민국 수영선수 20년하고 은퇴 했습니다. 
 현재는 Swift Apple Developer 이고요. 
 제 2의 인생을 Apple Developer 로 살아갈 것입니다. 
 
