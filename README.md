@@ -2,7 +2,7 @@
 안녕하세요
 저는 대한민국 수영선수 20년하고 은퇴 했습니다. 
 현재는 Swift Apple Developer 이고요. 
-제 2의 인생을 대한민국 Apple Developer 로 살아갈 것입니다. 
+제 2의 인생을 대한민국 Apple Developer 로 살아가고 싶습니다.
 
 <!--
 **moolnam/moolnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
